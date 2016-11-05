@@ -16,6 +16,7 @@ img {
   display: block;
   text-align: center;
   width: 100px;
+  margin: 0 0 1.5rem;
 }
 
 section {
@@ -30,7 +31,7 @@ section {
 h1 {
   display: block;
   text-align: center;
-  font-weight: bold;
+  font-weight: bolder;
   font-size: 2em;
 }
 
