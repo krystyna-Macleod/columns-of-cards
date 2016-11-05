@@ -37,19 +37,19 @@ h1 {
 
 h2 {
   font-weight: bolder;
-  font-size: .875em;
+  font-size: .876em;
   line-height: 1.5;
-  margin: 0;
+  margin-bottom: .2em;
 }
 
 h3 {
-  font-size: .875em;
+  font-size: .874em;
   line-height: 1.5;
-  margin: 0;
+  margin-bottom: .2em;
 }
 
 p {
-  font-size: .875rem;
+  font-size: .876rem;
   line-height: 1.5;
   margin: 0 auto 1.5rem;
 }
