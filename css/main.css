@@ -33,6 +33,8 @@ h1 {
   font-weight: bolder;
   text-align: center;
   font-size: 2em;
+  padding: .75rem;
+  margin: 0 0 1.5rem;
 }
 
 h2 {
