@@ -6,3 +6,25 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+
+}
+
+img {
+  display: block;
+  text-align: center;
+  width: 100px;
+
+}
+
+section {
+  float: left;
+  width: 25%;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
